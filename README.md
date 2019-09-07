@@ -2,10 +2,10 @@
 はじめてのwebページ
 
 <html>
-  <header>
+  <header link rel="stylesheet" type="text/css" href="style.css">
     <body>
       <div>
-       </div>
+      </div>
     </body>
   </header>
 </html>
