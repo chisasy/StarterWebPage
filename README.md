@@ -1,11 +1,2 @@
 # StarterWebPage
-はじめてのwebページ
-
-<html>
-  <header>
-    <body>
-      <div>
-       </div>
-    </body>
-  </header>
-</html>
+はじめてのwebページ（2019/09/09）
