@@ -49,13 +49,26 @@ table {
 }
 /*reset css_fin*/
 
+/*ヘッダー*/
+.header {
+	background-color: #663333;
+	height: 30px;
+}
+.header_left{
+	float: left;
+	color: #ffff;
+	font-size: 26px;
+}
+.header_right {
+	float: right;
+	background-color: #996666;
+}
 /*ヘッダー画像*/
 .headline{
 	background-image:url("image/yellow_bg.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height:527px;
-	margin: 50px;
 }
 .headline_text{
 	font-size:90px;
@@ -98,11 +111,11 @@ table {
 	margin-top:30px;
 	width: 227px;
 	height: 67px;
-	box-shadow: 7px 7px #000000;
+	box-shadow: 7px 7px #663300;
 
 }
 .button:hover {
-	background-color: red; 
+	background-color: #CC6600; 
 }
 
 /*本文：下部*/
